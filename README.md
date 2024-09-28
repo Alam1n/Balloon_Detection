@@ -5,24 +5,20 @@
 This is a simple image detection project designed to detect balloons in images or videos using the YOLOv5 model. The project utilizes pre-trained weights and a detection script (detect.py) to analyze and identify balloons within the provided media.
 
 ## Installation
-#### Requirements
+### Requirements
 To run this project, you'll need to install the necessary Python dependencies. Here's how you can get started:
 
-Clone the repository to your local machine:
-
-bash
+#### Clone the repository to your local machine:
 ```
 git clone https://github.com/yourusername/balloon-detection.git
 cd balloon-detection
-Create a virtual environment (optional but recommended):
 ```
-bash
+#### Create a virtual environment (optional but recommended):
 ```
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-Install the dependencies:
 ```
-bash
+#### Install the dependencies:
 ```
 pip install -r requirements.txt
 Download the YOLOv5 model weights:
