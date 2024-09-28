@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple image detection project designed to detect balloons in images or videos using the YOLOv5 model. The project utilizes pre-trained weights and a detection script (detect.py) to analyze and identify balloons within the provided media.
+This is a simple image detection project designed to detect balloons in images or videos using the YOLOv5 model. The project utilizes pre-trained weights and a detection script (detect.py) to analyze and identify balloons within the provided media. 
 
 ## Installation
 ### Requirements
