@@ -32,8 +32,11 @@ Ensure that the `best.pt` file is located in the weights/ directory (or adjust t
 Ensure the following important folders and files are present:
 
 `detect.py`: The main detection script.
+
 `weights/best.pt`: The model weights file.
+
 `data/`: (Optional) A folder containing sample images/videos.
+
 `runs/detect/`: The folder where the output (detected images/videos) will be saved.
 
 #### How to Run the Detection
